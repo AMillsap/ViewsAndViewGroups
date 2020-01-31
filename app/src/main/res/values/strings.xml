@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewsAndViewGroups</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="street_address_hint">Street Address</string>
+    <string name="city_hint">City</string>
+    <string name="state_hint">State</string>
+    <string name="zip_code_hint">Zip Code</string>
+    <string name="generate_person_hint">Generate Person</string>
+</resources>

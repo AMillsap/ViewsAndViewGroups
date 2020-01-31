@@ -1,0 +1,37 @@
+1.Singleton is when there is only one instance of the object in the program and is referenced throughout
+    the code. Factory is creating a default default without needing the specific class to be called.
+    An object if fist made into a default class and then given specifics to override the default. Builder
+    is used in modifying the object as it can be built. It is given specifics to create a class. Facade
+    method is about showing a simple interface to the user to hide a more complex interface that you
+    want to protect. Prototype method uses a base class that you copy when you want to make a new
+    instance of that object.
+
+2. ART uses AOT(Ahead of Time) approach which compiles the code at the time of installation of the app.
+    Dalvik uses JIT(Just in Time) approach which only compiles code as you need it. This causes Dalvik
+    to use less space, be faster in booting, and have better battery usage. AOT has a better garbage
+    collection than Dalvik.
+
+3. The android manifest contains essential information about your app that is read by the android system.
+    This information can be services, broadcast receivers, activities or content providers.
+
+4. Runtime is when the executable is running while compile time is when the code is converted to the
+    executable
+
+5. Dp is the density independent pixel and it is based on the screen density. Sp is used based on the
+    user font size. Px is based on a standard pixel size. Pt is 1/72 of an inch in respect to the
+    screen size. Mm is millimeters in respect to screen size. In is in inches with respect to the screen size.
+
+6.The Linux kernel which is the base foundation. It deals with key security, drivers and low level
+    memory management. The Hardware Abstraction Layer is the interface that allows higher level interfaces
+    to communicate to drivers and hardware. Android runtime contains the core libraries as well as
+    garbage collection. Native C/C++ Libraries hold all libraries that Andriod uses that were originally
+    written in C/C++. The Java API Framework is the feature set that are the building blocks to make
+    apps. This lets you use the OS to build these apps. The system apps are all applications on the
+    phone.
+
+7. Reflection is a method that allows you to view and change classes and inheritances at runtime.
+    You can instantiate new objects and invoke methods.
+
+8.The gradle is a build software that evaluates each file and determines when to run the code as well
+    as manage the class paths of the project. It also determines when pieces of code need to be rebuilt
+    based on input. It is creating the sequence of how your project should run.
